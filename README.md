@@ -27,11 +27,9 @@ The web app is built using Flask, a Python web framework. It integrates a machin
 4. The app will display the predicted price along with the selected features.
 
 ## Preview
-Here are some screenshots of the House Price Prediction Web App:
 
-1. Homepage with input fields and dropdown:
-   ![Homepage](link_to_image_1)
+## Example prediction result:
+![Homepage](images/img_1.png)
 
-2. Example prediction result:
-   ![Prediction](link_to_image_2)
+![Homepage](images/img_2.png)
 
